@@ -22,7 +22,6 @@ body{
 .intro h1 {
    font-size: 18pt;
    padding-bottom: 15px;
-
 }
 .intro p{
    font-size: 14px;
@@ -69,8 +68,6 @@ a.btn:hover{
    font-family: FontAwesome;
    color: #7f7171;
    content: "\f004";
-
-
 }
 .credit a{
    color: #333;
@@ -119,8 +116,6 @@ article p{
       margin-right: auto; 
       padding: 24px;
     }
-
-
 }
 
 .set-overlayer,
