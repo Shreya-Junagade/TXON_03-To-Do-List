@@ -23,7 +23,6 @@ addList=()=>{
                 </li> `;
         input.value=" ";
         listNum++;
-
    }
 }
 
@@ -35,8 +34,7 @@ done=(listId)=>{
         current.classList.remove("text-decoration-line-through");
     }else{
         current.classList.add("text-decoration-line-through");
-    }
-    
+    }   
 }
 
 filterList=(x)=>{
